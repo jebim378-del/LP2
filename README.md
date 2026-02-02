@@ -26,7 +26,7 @@ Da dieses Projekt modernste ESM-Importmaps nutzt, ist kein komplexes Build-Syste
 
 1.  **Repository klonen**:
     ```bash
-    git clone https://github.com/DEIN-USERNAME/teddy-ai-clone.git
+    git clone https://github.com/DEIN-USERNAME/t-ai-clone.git
     cd teddy-ai-clone
     ```
 
@@ -44,7 +44,7 @@ Um dieses Projekt auf GitHub zu pushen:
     git add .
     git commit -m "Initial commit: T Landing Page"
     git branch -M main
-    git remote add origin https://github.com/DEIN-USERNAME/teddy-ai-clone.git
+    git remote add origin https://github.com/DEIN-USERNAME/t-ai-clone.git
     git push -u origin main
     ```
 
